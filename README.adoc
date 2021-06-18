@@ -1,0 +1,15 @@
+= Universal Compiler class project
+
+Steve Taylor <staylorx@gmail.com>
+AUG-2016
+
+To get this started (implying nvm in use for bringing in v6.5.0):
+
+----
+nvm install v6.5.0
+nvm use v6.5.0
+npm install
+npm test
+----
+
+This is an old one, brought over from 2016 to demonstrate LL1 grammar.

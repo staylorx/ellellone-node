@@ -1,0 +1,20 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "Homework for the CU Universal Compiler class",
+  "main": "app/parserRunner.js",
+  "dependencies": {
+    "n-readlines": "^0.2.7",
+    "string-table": "^0.1.5",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.31.1",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Steve Taylor <staylorx@gmail.com>",
+  "license": "ISC"
+}
